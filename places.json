@@ -1,0 +1,26 @@
+[
+  {
+    "id": "park1",
+    "name": "Центральный парк",
+    "description": "Большой городской парк с озером и зонами отдыха.",
+    "image": "https://s.zagranitsa.com/images/guides/18568/original/0bb68b82d3fadfafd93a13fdf7d1d24f.jpg?1439722935",
+    "lat": 43.242000,
+    "lon": 76.953000
+  },
+  {
+    "id": "museum1",
+    "name": "Городской музей",
+    "description": "Исторический музей с постоянными и временными выставками.",
+    "image": "https://visitalmaty.kz/wp-content/uploads/2022/07/4-768x512-1.jpg",
+    "lat": 43.239500,
+    "lon": 76.945500
+  },
+  {
+    "id": "cafe1",
+    "name": "Кафе у озера",
+    "description": "Уютное кафе с видом на воду.",
+    "image": "https://www.terradeck.ru/sites/default/files/01_domik_y_ozera_2015_semenova.jpg",
+    "lat": 43.235800,
+    "lon": 76.960000
+  }
+]
